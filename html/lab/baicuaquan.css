@@ -1,0 +1,148 @@
+.outer{
+    width: 100%;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    border: 1px solid black;
+}
+.Top_header{
+    width: 100%;
+    height: 120px;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Topheader{
+    width: 100%;
+    height: 120px;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+.Bottom_header{
+    width: 100%;
+    height: 120px;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.main_wrap{
+    width: 100%;
+    height: 420px;
+    margin-top: 0;
+    margin-left: 0;
+    scroll-margin-bottom: 200px;
+    float: left;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.outer_left{
+    width: 10%;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    height: 420px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.outer_right{
+    width: 15%;
+    float: left;
+    height: 420px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.middle{
+    width: 20%;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    height:  420px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left_sidebar{
+    width: 55%;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    height:  420px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right_sidebar{
+    width:  15%;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    height:  420px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Top_footer{
+    width: 100%;
+    height: 300px;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    border: 1px solid black;
+}
+.Bottom_footer{
+    width: 100%;
+    height: 120px;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+body{
+    text-align: center;
+}
+
+input[type=text]{
+    margin-right: 73% ;
+    border-bottom: 2px solid black;
+    height: 200px;
+    width: 30%;
+    margin-left: 9%;
+}
+input[type=button]{
+    border-bottom: 2px solid black;
+    margin-left: 70%;
+    height: 50px;
+    width: 100px;
+    margin-bottom: 400px;
+}
+
+
